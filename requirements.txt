@@ -1,0 +1,8 @@
+animu
+asyncpraw
+jishaku==2.4.0
+psutil
+python-dotenv
+redditeasy
+py-cord @ git+https://github.com/Pycord-Development/pycord
+uvloop ; sys_platform != "win32"

@@ -1,0 +1,9 @@
+*pyc
+test2.py
+test1.py
+ffmpeg.exe
+__pycache__/
+.env
+.venv
+*http
+test*
